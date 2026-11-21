@@ -26,6 +26,7 @@ deep-learning/
 │   └── README.md
 │
 ├── CNN/
+│   ├── CNN_project.ipynb
 │   └── README.md
 │
 ├── RNN/
@@ -45,7 +46,7 @@ deep-learning/
 
 ### Convolutional Neural Network (CNN)
 
-- More projects will be added.
+- [Handwritten Digit Recognition – Perceptron, ANN and CNN](CNN/README.md)
 
 ### Recurrent Neural Network (RNN)
 
