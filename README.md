@@ -1,3 +1,4 @@
+
 # Deep Learning Journey
 
 This repository documents my journey of learning Deep Learning and Artificial Intelligence through hands-on implementations, experiments, and practical projects using Python, TensorFlow, and Keras.
@@ -30,7 +31,9 @@ deep-learning/
 │   └── README.md
 │
 ├── RNN/
+│   ├── Next_word_prediction.ipynb
 │   └── README.md
+│   
 │
 ├── Transformer/
 │   └── README.md
@@ -50,7 +53,7 @@ deep-learning/
 
 ### Recurrent Neural Network (RNN)
 
-- More projects will be added.
+- [Next Word Prediction and Text Generation using LSTM](RNN/Next_word_prediction/README.md)
 
 ### Transformer
 
@@ -102,6 +105,8 @@ deep-learning/
 - Gated Recurrent Unit (GRU)
 - Time Series Prediction
 - Sequence Modeling
+- Next Word Prediction
+- Text Generation
 
 ### 5. Transformer
 
